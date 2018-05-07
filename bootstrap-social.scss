@@ -8,10 +8,10 @@
  */
 
 // bootstrap
-@import 'node_modules/bootstrap/scss/_functions';
-@import 'node_modules/bootstrap/scss/_mixins';
-@import 'node_modules/bootstrap/scss/_variables';
+@import 'bootstrap/scss/functions';
+@import 'bootstrap/scss/mixins';
+@import 'bootstrap/scss/variables';
 
 // bootstrap-social support for bootstrap 4.x
 // <https://github.com/lipis/bootstrap-social/issues/123>
-@import '_custom';
+@import 'custom';
